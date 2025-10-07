@@ -32,7 +32,7 @@ public class VendingMachine
 
         foreach (var product in _products)
         {
-            Console.WriteLine($"{product.Id}. {product.Name} - Стоимость: {product.Price}  Клличество: {product.Quantity}");
+            Console.WriteLine($"{product.Id}. {product.Name} - Стоимость: {product.Price}  Количество: {product.Quantity}");
         }
         return true;
     }
