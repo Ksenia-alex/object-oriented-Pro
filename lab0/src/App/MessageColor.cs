@@ -1,4 +1,4 @@
-namespace object_oriented_Pro.lab1.App;
+namespace object_oriented_Pro.lab0.App;
 
 public static class MessageColor
 {

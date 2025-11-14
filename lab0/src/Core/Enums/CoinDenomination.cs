@@ -1,4 +1,4 @@
-namespace object_oriented_Pro.lab1.Core.Enums;
+namespace object_oriented_Pro.lab0.Core.Enums;
 
 public enum CoinDenomination
 {

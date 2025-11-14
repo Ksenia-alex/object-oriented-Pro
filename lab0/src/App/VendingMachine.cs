@@ -1,7 +1,7 @@
-using object_oriented_Pro.lab1.Core.Enums;
-using object_oriented_Pro.lab1.Core.Models;
+using object_oriented_Pro.lab0.Core.Enums;
+using object_oriented_Pro.lab0.Core.Models;
 
-namespace object_oriented_Pro.lab1.App;
+namespace object_oriented_Pro.lab0.App;
 
 public class VendingMachine
 {

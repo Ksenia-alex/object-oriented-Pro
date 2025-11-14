@@ -1,6 +1,6 @@
-﻿using object_oriented_Pro.lab1.App;
+﻿using object_oriented_Pro.lab0.App;
 
-namespace object_oriented_Pro.lab1;
+namespace object_oriented_Pro.lab0;
 
 public class Program
 {

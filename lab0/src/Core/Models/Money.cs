@@ -1,6 +1,6 @@
-namespace object_oriented_Pro.lab1.Core.Models;
+namespace object_oriented_Pro.lab0.Core.Models;
 
-using object_oriented_Pro.lab1.Core.Enums;
+using object_oriented_Pro.lab0.Core.Enums;
 
 public class Money
 {
