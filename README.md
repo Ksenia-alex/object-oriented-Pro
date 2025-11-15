@@ -3,4 +3,4 @@ ___
 
 ### Лабораторные работы:
 
-[Лабораторная работа №0](lab0/README.md)
+[Лабораторная работа №0](Lab0.VendicgMachine/Lab0.VendingMachine/README.md)
