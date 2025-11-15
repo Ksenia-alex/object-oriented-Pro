@@ -1,6 +1,6 @@
-﻿using object_oriented_Pro.lab0.App;
+﻿using Lab0.VendingMachine.App;
 
-namespace object_oriented_Pro.lab0;
+namespace Lab0.VendingMachine;
 
 public class Program
 {

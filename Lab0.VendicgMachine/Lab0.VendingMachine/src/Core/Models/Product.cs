@@ -1,4 +1,4 @@
-namespace object_oriented_Pro.lab0.Core.Models;
+namespace Lab0.VendingMachine.Core.Models;
 
 public class Product
 {

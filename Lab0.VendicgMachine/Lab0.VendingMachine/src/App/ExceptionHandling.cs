@@ -1,6 +1,6 @@
-using object_oriented_Pro.lab0.Core.Enums;
+using Lab0.VendingMachine.Core.Enums;
 
-namespace object_oriented_Pro.lab0.App;
+namespace Lab0.VendingMachine.App;
 
 public static class ExceptionHandling
 {

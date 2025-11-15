@@ -1,4 +1,4 @@
-namespace object_oriented_Pro.lab0.App;
+namespace Lab0.VendingMachine.App;
 
 public class AuthenticationService
 {
