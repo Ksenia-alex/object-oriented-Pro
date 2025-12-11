@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1.CoursePlatform.Tests",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.RpgInventory", "Lab2.RpgInventory\Lab2.RpgInventory\Lab2.RpgInventory.csproj", "{86956A97-F3D5-47BF-965A-F500994EAA10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.RpgInventory.Tests", "Lab2.RpgInventory.Tests\Lab2.RpgInventory.Tests\Lab2.RpgInventory.Tests.csproj", "{B4951CEA-1D6F-4BB7-8280-08D002856611}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{86956A97-F3D5-47BF-965A-F500994EAA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86956A97-F3D5-47BF-965A-F500994EAA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86956A97-F3D5-47BF-965A-F500994EAA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4951CEA-1D6F-4BB7-8280-08D002856611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4951CEA-1D6F-4BB7-8280-08D002856611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4951CEA-1D6F-4BB7-8280-08D002856611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4951CEA-1D6F-4BB7-8280-08D002856611}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
