@@ -36,6 +36,11 @@ public class OrderBuilder : InterfaceOrderBuilder
 
     public Order Build()
     {
+        if (string.IsNullOrWhiteSpace(_customer) || string.IsNullOrWhiteSpace(_address))
+        {
+            throw new InvalidOperationException("Имя клиента и адрес должны быть указаны перед созданием заказа.");
+        }
+        
         var order = new Order(_customer, _address, _strategy);
         _dishes.ForEach(dish => order.AddDish(dish));
         return order;

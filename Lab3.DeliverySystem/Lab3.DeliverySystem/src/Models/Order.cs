@@ -8,7 +8,7 @@ public class Order : InterfaceOrderSubject
 {
     public string CustomerName { get; }
     public string DeliveryAddress { get; }
-    public List<Dish> Dishes { get; }
+    public List<Dish> Dishes { get; } = new();
     public InterfaceCostCalculationStrategy CostCalculationStrategy { get; set; }
 
     private InterfaceOrderState _state;

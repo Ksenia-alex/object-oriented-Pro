@@ -9,8 +9,12 @@ public class Menu
     
     public List<Dish> AvailableDishes { get; }
 
-    public Menu()
+    private Menu()
     {
-        AvailableDishes = new List<Dish>();
+        AvailableDishes = new List<Dish> {
+            new("Пицца Маргарита", 15.50m),
+            new("Салат Цезарь",8.00m),
+            new("Паста Карбонара", 12.75m)
+        };
     }
 }
