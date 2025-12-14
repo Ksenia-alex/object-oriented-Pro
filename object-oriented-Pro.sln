@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.RpgInventory", "Lab2.R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab2.RpgInventory.Tests", "Lab2.RpgInventory.Tests\Lab2.RpgInventory.Tests\Lab2.RpgInventory.Tests.csproj", "{B4951CEA-1D6F-4BB7-8280-08D002856611}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.DeliverySystem", "Lab3.DeliverySystem\Lab3.DeliverySystem\Lab3.DeliverySystem.csproj", "{B8E6CDF7-DEAD-45E9-9495-ADBD5A2180C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3.DeliverySystem.Tests", "Lab3.DeliverySystem.Tests\Lab3.DeliverySystem.Tests\Lab3.DeliverySystem.Tests.csproj", "{C006FA35-CE95-4EB2-96D9-ECAEE58E5E86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,14 @@ Global
 		{B4951CEA-1D6F-4BB7-8280-08D002856611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4951CEA-1D6F-4BB7-8280-08D002856611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4951CEA-1D6F-4BB7-8280-08D002856611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8E6CDF7-DEAD-45E9-9495-ADBD5A2180C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8E6CDF7-DEAD-45E9-9495-ADBD5A2180C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8E6CDF7-DEAD-45E9-9495-ADBD5A2180C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8E6CDF7-DEAD-45E9-9495-ADBD5A2180C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C006FA35-CE95-4EB2-96D9-ECAEE58E5E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C006FA35-CE95-4EB2-96D9-ECAEE58E5E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C006FA35-CE95-4EB2-96D9-ECAEE58E5E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C006FA35-CE95-4EB2-96D9-ECAEE58E5E86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
